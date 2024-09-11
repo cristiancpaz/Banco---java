@@ -1,1 +1,1 @@
-Desenvolvimento de classe Banco, conta, cliente, para treinar JAVA.
+Desenvolvimento de classe Banco, conta, cliente, em JAVA.
